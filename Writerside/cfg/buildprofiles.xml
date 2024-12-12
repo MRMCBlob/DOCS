@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE buildprofiles SYSTEM "https://resources.jetbrains.com/writerside/1.0/build-profiles.dtd">
+<buildprofiles xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/build-profiles.xsd"
+               xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+    <build-profile instance="md">
+        <variables>
+            <header-logo>bot_img.png</header-logo>
+            <primary-color>strawberry</primary-color>
+            <noindex-content>true</noindex-content>
+            <custom-favicons>bot_img.png</custom-favicons>
+            <download-title>Get MR. MR</download-title>
+            <download-page>https://mrmcblob.github.io/Mr.Web/</download-page>
+            <showDownloadButton>true</showDownloadButton>
+        </variables>
+    </build-profile>
+</buildprofiles>
